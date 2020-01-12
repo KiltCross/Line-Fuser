@@ -7,9 +7,9 @@ The use is:
 
 1: Inmput two lines.
 
-2: Multiple result images appear.
+2: Generate a image.
 
-3: Select the closest image to the desire result.
+3: Check how good is the generated image.
 
 4: Back to the step 2, until the result in good enough.
 
